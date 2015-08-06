@@ -4,3 +4,6 @@
 ### iooo
 #### ioo
 #####o-ooo
+
+#Git チュートリアル
+　　・fix-B
