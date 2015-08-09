@@ -27,9 +27,7 @@
 |a|b|c|
 |d|e|f|
 ##練習６
-あああ
----
-いいい
+aaa
 ##練習７
 [天才のGitHub](http://github.com/lancer-evolution)
 ##練習７
